@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/readme-banner.svg" alt="NETTO — Portfólio Digital" width="100%" />
+  <img src="assets/readme-banner.svg" alt="NETTO — Portfólio Digital · Góias" width="100%" />
 </div>
 
 <br />
